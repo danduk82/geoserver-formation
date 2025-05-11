@@ -1,0 +1,30 @@
+/* theme.css */
+
+section {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  h1 {
+    color: #7A7F82;
+    font-size: 2.5em;
+    font-weight: bold;
+    border-bottom: 2px solid #7A7F82;
+  }
+  
+  h2 {
+    color: #FF680A;
+    font-size: 1.6em;
+    font-weight: 600;
+  }
+  
+  header, [data-marpit-header] {
+    background: #7A7F82;
+    color: #FF680A;
+    font-size: 0.7em;
+    padding: 0.4em 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
